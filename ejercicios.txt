@@ -1,0 +1,26 @@
+ejercicio #1
+	Definir una variable donde almacenar su nombre y e otra su edad,
+	mostrar luego los valores almacenados con la leyenda previa que 
+	indique lo que representa.
+ejercicio #2
+	Confeccionar una pantalla de presentación de un sitio. Definir varias líneas de 
+	comentarios indicando el nombre del programa, el programador y la fecha de 
+	la última modificación.
+ejercicio #3
+	Mostrar el resultado de elevar el número 2 al cuadrado y al cubo.
+ejecricio #4
+	Generar un valor aleatorio entre -10 y 10. Mostrar un mensaje si el valor generado 
+	es negativo, nulo o positivo. Para generar un valor aleatorio en ese rango debemos 
+	plantear la siguiente expresión: x=-10+random.randint(0,20)
+ejercicio #5
+	Generar 3 números aleatorios entre 1 y 100. Mostrar un mensaje si todos son 
+	superiores a 10.
+ejercicio #6
+	Generar un valor aleatorio comprendido entre 1 y 5.
+	Luego mostrar en castellano el valor generado
+ejercicio #7
+	Generar un valor aleatorio entre 100 y 200. Luego mostrar los números 
+	comprendidos entre 1 y el valor generado.
+ejercicio #8
+Desarrollar una función que reciba dos enteros y nos muestre todos 
+los valores comprendidos entre ellos (el segundo parámetro siempre debe ser mayor al primero)
