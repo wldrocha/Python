@@ -33,3 +33,11 @@ Definir una tupla con 10 edades de personas. Imprimir la cantidad de personas co
 ejercico #12
 Almacenar en una tupla 5 nombres. Luego generar un valor aleatorio entre 2 y 4. Copiar a una tupla el nombre 
 de la posición indicada por el valor aleatorio y los nombres que se encuentran en la posición anterior y posterior.
+ejercicio #13
+Elaborar las siguientes funciones:
+- Una función que reciba un string y nos retorne el primer caracter.
+- Una función que reciba un apellido y un nombre, y nos retorne un único string con el 
+ apellido y nombre concatenados y separados por una coma.
+- Una función que reciba dos string y nos retorne el que tiene menos caracteres.
+ejercicio #14
+Definir una lista con un conjunto de nombres, imprimir la cantidad de comienzan con la letra a
