@@ -44,3 +44,6 @@ Definir una lista con un conjunto de nombres, imprimir la cantidad de comienzan 
 ejercicio #15
 Definir una lista con una serie de elementos. Intercambiar la información del primero 
 con el último de la lista.
+ejercicio #16
+Crear un diccionario asociando nombres de países y cantidades de habitantes. 
+Imprimir luego el diccionario.
