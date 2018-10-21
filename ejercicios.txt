@@ -26,3 +26,10 @@ Desarrollar una función que reciba dos enteros y nos muestre todos
 los valores comprendidos entre ellos (el segundo parámetro siempre debe ser mayor al primero)
 ejercicio #9
 Desarrollar una función que reciba tres enteros y nos retorne la suma de los dos más grandes.
+ejercico #10
+Definir una tupla que almacene 5 enteros. Implementar un algoritmo que imprima la suma de todos los elementos
+ejercico #11
+Definir una tupla con 10 edades de personas. Imprimir la cantidad de personas con edades superiores a 20.
+ejercico #12
+Almacenar en una tupla 5 nombres. Luego generar un valor aleatorio entre 2 y 4. Copiar a una tupla el nombre 
+de la posición indicada por el valor aleatorio y los nombres que se encuentran en la posición anterior y posterior.

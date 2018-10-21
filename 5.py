@@ -1,3 +1,4 @@
+#-*- coding: utf-8 -*
 import random
 #ejercicio #5
 #	Generar 3 numeros aleatorios entre 1 y 100. Mostrar un mensaje si todos son 

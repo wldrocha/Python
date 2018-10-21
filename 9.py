@@ -12,6 +12,6 @@ def suma(a,b,c):
     else:
         return c+a
 print suma(5,9,7)
-    #x = 5 input('Introduzca el primer digito')
-    #y = 4 input('Introduzca el segundo digito')
-    #z = 3 input('instroduzca el tercer digito')
+    #x = 5 input('Introduzca el primer dígito')
+    #y = 4 input('Introduzca el segundo dígito')
+    #z = 3 input('instroduzca el tercer dígito')

@@ -1,3 +1,4 @@
+#-*- coding: utf-8 -*
 import random
 #ejercicio #6
 #	Generar un valor aleatorio comprendido entre 1 y 5.

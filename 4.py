@@ -1,3 +1,4 @@
+#-*- coding: utf-8 -*-
 import random
 #4- Problema Propuesto
 #   Generar un valor aleatorio entre -10 y 10. Mostrar un mensaje si el valor generado 
