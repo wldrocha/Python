@@ -24,3 +24,5 @@ ejercicio #7
 ejercicio #8
 Desarrollar una función que reciba dos enteros y nos muestre todos 
 los valores comprendidos entre ellos (el segundo parámetro siempre debe ser mayor al primero)
+ejercicio #9
+Desarrollar una función que reciba tres enteros y nos retorne la suma de los dos más grandes.
